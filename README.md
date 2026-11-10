@@ -1,11 +1,9 @@
 <div align="center">
-
 ### Heya, Tanya here!
 
  b.tech ai & ds '29 · chennai
 
 </div>
-
 ---
 
 ### about me!
@@ -20,7 +18,7 @@
 ---
 
 ****
-### stack & tools
+### stack & tools:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,postgres,mysql,linux,bash,git,github,gcp,vscode&perline=11" />
@@ -33,7 +31,7 @@
 
 ---
 
-### connect
+### connect with me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tanya-kukreti/)" target="_blank">
@@ -42,7 +40,7 @@
 </p>
 
 ---
-<sub>built on linux mint · always looking to learn and adapt</sub>
+<sub>built on linux mint
 
 <!--
 **TanThetta/TanThetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
