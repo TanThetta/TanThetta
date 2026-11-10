@@ -1,4 +1,48 @@
-## Hi there 👋
+<div align="center">
+
+### heya, Tanya here!
+
+ · b.tech ai & ds '29 · chennai
+
+</div>
+
+---
+
+### about me!
+
+* 2nd year b.tech ai & ds, graduating 2029!
+* exploring the vast oceans of data engineering and core software systems.
+* currently: learning the fundamentals of clouds
+
+---
+
+
+---
+
+****
+### stack & tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,postgres,mysql,linux,bash,git,github,gcp,vscode&perline=11" />
+</p>
+
+* **languages:** Python, Java, SQL, C
+* **databases & modeling:** PostgreSQL, MySQL, 3NF Normalization, ACID Transactions, Indexing
+* **data & analytics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, EDA
+* **tools & infra:** Linux Mint, Bash, Git, GitHub, GCP, MS Excel
+
+---
+
+### connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanya-kukreti/)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  </a>
+</p>
+
+---
+<sub>built on linux mint · always looking to learn and adapt</sub>
 
 <!--
 **TanThetta/TanThetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
