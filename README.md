@@ -1,26 +1,21 @@
 
  
 ### Heya, Its Tanya!
-
- b.tech ai & ds '29 · chennai
+b.tech ai & ds '29 · chennai
 
 </div>
 
 ---
 
-### about me!
+### About me!
 
 * 2nd year b.tech ai & ds, graduating 2029!
 * Exploring the vast oceans of data engineering and core software systems.
 * Currently: learning the fundamentals of clouds
 
----
-
-
----
 
 ****
-### stack & tools:
+### Stack & tools:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,postgres,mysql,linux,bash,git,github,gcp,vscode&perline=11" />
@@ -33,11 +28,11 @@
 
 ---
 
-### connect with me!
+### Connect with me!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanya-kukreti/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  <a href="https://www.linkedin.com/in/tanya-kukreti" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
