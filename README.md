@@ -1,6 +1,6 @@
 
  
-### Heya, Its Tanya!
+### Heya, It's Tanya!
 b.tech ai & ds '29 · chennai
 
 </div>
@@ -25,6 +25,13 @@ b.tech ai & ds '29 · chennai
 * **databases & modeling:** PostgreSQL, MySQL, 3NF Normalization, ACID Transactions, Indexing
 * **data & analytics:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, EDA
 * **tools & infra:** Linux Mint, Bash, Git, GitHub, GCP, MS Excel
+
+---
+### Some things i've built:
+
+* **[ecommerce-etl-pipeline](https://github.com/TanThetta/Ecommerce-etl-pipeline)** ✦ Python, PostgreSQL, Pandas, SQLAlchemy, Seaborn
+   
+  Automated relational ETL pipeline normalizing 100k+ Brazilian e-commerce (Olist) records into 3NF with ACID guarantees and indexed analytical dashboards.
 
 ---
 
