@@ -1,8 +1,8 @@
 <div align="center">
 
-### heya, Tanya here!
+### Heya, Tanya here!
 
- · b.tech ai & ds '29 · chennai
+ b.tech ai & ds '29 · chennai
 
 </div>
 
@@ -11,9 +11,9 @@
 ### about me!
 
 * 2nd year b.tech ai & ds, graduating 2029!
-* exploring the vast oceans of data engineering and core software systems.
-* currently: learning the fundamentals of clouds
-
+* Exploring the vast oceans of data engineering and core software systems.
+* Currently: learning the fundamentals of clouds
+* Fun fact: My nick name is Tantheta!
 ---
 
 
