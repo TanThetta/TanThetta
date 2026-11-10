@@ -28,15 +28,16 @@ b.tech ai & ds '29 · chennai
 
 ---
 
-### Connect with me!
+### Connect! :
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanya-kukreti" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/tanya-kukreti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tanyakukreti77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <!--
 **TanThetta/TanThetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
