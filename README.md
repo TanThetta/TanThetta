@@ -1,6 +1,6 @@
-<div align="center">
+
  
-### Heya, Tanya here!
+### Heya, Its Tanya!
 
  b.tech ai & ds '29 · chennai
 
@@ -13,7 +13,7 @@
 * 2nd year b.tech ai & ds, graduating 2029!
 * Exploring the vast oceans of data engineering and core software systems.
 * Currently: learning the fundamentals of clouds
-* Fun fact: My nick name is Tantheta!
+
 ---
 
 
@@ -42,7 +42,6 @@
 </p>
 
 ---
-<sub>built on linux mint
 
 <!--
 **TanThetta/TanThetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
