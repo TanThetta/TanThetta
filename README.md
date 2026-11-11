@@ -15,7 +15,7 @@ b.tech ai & ds '29 · chennai
 
 
 ****
-### Stack & tools:
+### Stack & tools I have conquered:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,postgres,mysql,linux,bash,git,github,gcp,vscode&perline=11" />
